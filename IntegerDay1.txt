@@ -53,6 +53,7 @@ $git clone https://github.com/emmtech/emmyinteger.git
 10. $git remote add origin https://github.com/emmtech/newRepo.git
 
 
+PHP Class
 
 SESSIONS AND COOKIES
 Sessions: are stored on the server
