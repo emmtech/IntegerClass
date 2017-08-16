@@ -1,0 +1,58 @@
+GITHUB ONLINE Password: connect@@1987
+
+Git Bash username: emmtech,
+email: emmanuelomotay1987@gmail.com
+Day 1:
+Integer Class
+
+CommandLine: an interface for typing command directly to computer.
+
+Note: To navigate to a particular directory from command Line. 
+C:\INTEGER\commadLine>start . 
+
+1. Identify the problem
+2. Profer solution to problems.
+
+md->make directory or mkdir
+whoami->
+md Integer ->the directory name "Integer" is called an 
+cd->change directory
+ARGUMENT
+Definition of Terms in GIT:
+Repository: is an online directory containing your projects.
+Fork: This is when a designer is creating a copy of his/her files online
+Cloning: This is done locally, i.e creating new project.
+Commit: This is when you are done with your changes, then you commit then after that you PUSH.
+Push: This is to push the changes made offline to the repository online.
+Pull: This is when you pull your project from repository online to make some changes to the file.
+GIT BASH
+You can create file using TOUCH command
+Before you use GIT, you need to create an account 
+
+GITHUB: is a social network built for developers powered by GIT.
+
+Creating a username and email on git bash
+$git config --global user.name "emmtech" 
+$git config --global user.email "emmanuelomotayo1987@gmail.com"
+to confirm if your email and username has been set:
+$git config user.name
+$git config user.email
+
+CREATING A NEW REPO
+1. Click on New repository
+2. Copy the link
+https://github.com/emmtech/emmyinteger.git
+3. Create a new folder in the directory you want the file to be
+4. To go back to the root folder using cd ~
+5. then type cd to navigate to the folder: cd foldername
+6. After that clone the directory using the link you got from the creation of new rospository using: 
+$git clone https://github.com/emmtech/emmyinteger.git
+7. then make your changes, after that
+8. commit the changes: $git commit -m "message"
+9. $git push origin master
+10. $git remote add origin https://github.com/emmtech/newRepo.git
+
+
+
+SESSIONS AND COOKIES
+Sessions: are stored on the server
